@@ -1,6 +1,6 @@
 {
 	"clients": [{
-			"pid": 3846,
+			"id": 3846,
 			"nodeId": "Master",
 			"moduleId": "smart_auth",
 			"clientId": "boltehr-client-id-1",
@@ -34,7 +34,7 @@
 			"secretRequired": false
 		},
 		{
-			"pid": 3847,
+			"id": 3847,
 			"nodeId": "Master",
 			"moduleId": "smart_auth",
 			"clientId": "boltehr-client-id-2",
